@@ -1,3 +1,5 @@
+-- copied from https://github.com/lyqyd/lnfs-client
+
 local args = {...}
 
 if #args < 3 then

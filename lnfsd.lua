@@ -1,3 +1,5 @@
+-- copied from https://github.com/lyqyd/lnfs-daemon
+
 local config = {
 	lyqydnet = {
 		listenPort = 21,
